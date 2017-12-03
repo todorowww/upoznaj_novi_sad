@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background: #fff;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: sans-serif;
+  color: #000;
+  -webkit-font-smoothing: antialiased;
+}
+
+div.row {
+  padding-bottom: 20px;
+}
+
+div.kontakt {
+  padding-left: 20px;
+}
