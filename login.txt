@@ -1,4 +1,0 @@
-Ovo je fajl sa test login podacima za sajt
-
-korisnicko ime : admin
-sifra : admin
