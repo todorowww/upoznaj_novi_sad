@@ -1,3 +1,5 @@
 U ovaj fajl ce ici razne korisne informacije za prezentaciju
 
 Isprobavamo razne git GUI alate
+
+Isprobavamo GitKraken
