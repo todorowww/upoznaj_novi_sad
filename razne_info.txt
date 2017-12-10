@@ -6,3 +6,4 @@ Isprobavamo GitKraken
 
 Probamo SSH kljuceve
 
+SSH kljucevi uspesno podeseni
